@@ -1,7 +1,7 @@
 {
     "Tsurugi": {
         "Binds": {
-            "Keybind": "RButton",
+            "Keybind": "LButton",
             "Pause": "Esc",
             "Reload": "R"
         },
